@@ -22,3 +22,7 @@ import Image
 
 image = Image.open('svd___dragunov_by_drake_uk-d4i8b63.jpg')
 image.show()
+if a == IMG_1585
+   from tkinter import *
+   window = Tk()
+   
